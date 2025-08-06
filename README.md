@@ -7,7 +7,7 @@ AI-Image generation and background remover
 - **Frontend**: Angular, Bootstrap
 - **Backend**: Spring Boot, REST API
 - **Image Processing**: Remove.bg API
-- - **Image Generation**: Pollinations.ai API
+- **Image Generation**: Pollinations.ai API
 - **Preview & Upload**: Base64 Preview + File Upload
 
 ## 🚀 Features
